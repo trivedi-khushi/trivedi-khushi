@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭Currently working on NodeJS projects majorly. <br>👯Let's collaborate??<br>⚡Fun Fact: I got a typing speed of 70🐼
+🔭Currently working on NodeJS projects majorly. <br>👯Let's collaborate??<br>⚡Fun Fact: I got a typing speed of 70 🐼
 
 
 ## 🌐 Socials:
