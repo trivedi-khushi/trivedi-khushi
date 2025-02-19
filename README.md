@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
+🥑 Developer Relations Engineer @SuprSend <br> ✍️ Open-Source Technical Writer
 🔭Currently working on NodeJS projects majorly. <br>👯Let's collaborate??<br>⚡Fun Fact: I got a typing speed of 70 🐼
 
 
