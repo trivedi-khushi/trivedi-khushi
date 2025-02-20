@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🥑 Developer Relations Engineer @SuprSend <br> ✍️ Open-Source Technical Writer
-🔭Currently working on NodeJS projects majorly. <br>👯Let's collaborate??<br>⚡Fun Fact: I got a typing speed of 70 🐼
+🔭Currently working on NodeJS projects majorly. <br>👯Let's collaborate??<br>⚡A Fun Fact about me: I can type at a speed of 70 🐼
 
 
 ## 🌐 Socials:
