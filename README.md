@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🥑 Developer Relations Engineer [![@SuprSend] (https://github.com/suprsend)] <br> ✍️ Open-Source Technical Writer <br>
+🥑 Developer Relations Engineer [@SuprSend](https://github.com/suprsend) <br>  
+✍️ Open-Source Technical Writer <br>
 
 🔭Currently working on NodeJS projects majorly. <br>👯Let's collaborate??<br><br>⚡A Fun Fact about me: I can type at a speed of 70 🐼
 
