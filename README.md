@@ -1,6 +1,7 @@
 # About Me: 👋
-🥑 Developer Relations Engineer [@SuprSend](https://github.com/suprsend) | Ex- [@keploy](https://github.com/keploy)
-✍️ Open-Source Technical Writer <br>
+🥑 Developer Relations Engineer [@SuprSend](https://github.com/suprsend) | Prev [@keploy](https://github.com/keploy)
+
+✍️ Open-Source Technical Writer
 
 🔭Currently working on NodeJS projects majorly.
 
