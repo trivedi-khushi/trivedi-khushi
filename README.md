@@ -1,8 +1,7 @@
 # About Me: 👋
-🥑 Developer Relations Engineer | Author [@freeCodeCamp](https://github.com/freeCodeCamp)
-✍️ Open-Source Technical Writer
+🥑 Developer Relations Engineer | Author [@freeCodeCamp](https://github.com/freeCodeCamp) | ✍️ Open-Source Technical Writer
 
-Prev| [@SuprSend](https://github.com/suprsend) | [@keploy](https://github.com/keploy) 
+Prev [@SuprSend](https://github.com/suprsend) | [@keploy](https://github.com/keploy) 
 
 
 🔭 Exploring Applied AI...
