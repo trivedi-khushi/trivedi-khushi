@@ -1,11 +1,13 @@
 # About Me: 👋
-🥑 Developer Relations Engineer [@SuprSend](https://github.com/suprsend) | Prev [@keploy](https://github.com/keploy)
-
+🥑 Developer Relations Engineer | Author [@freeCodeCamp](https://github.com/freeCodeCamp)
 ✍️ Open-Source Technical Writer
 
-🔭Currently working on NodeJS projects majorly.
+Prev| [@SuprSend](https://github.com/suprsend) | [@keploy](https://github.com/keploy) 
 
-⚡A Fun Fact about me: I can type at a speed of 70 🐼
+
+🔭 Exploring Applied AI...
+
+⚡A Fun Fact about me: typing speed - 82 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=trivedi-khushi&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
